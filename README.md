@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @soylemezom
-- 👀 I’m interested in Devops Engineering
-- 🌱 I’m currently learning Source code management and VCS
+- 👋 Hi, I’m Mustafa
+- 👀 I’m a Devops Engineer
+- 🌱 I’m implementing CI/CD 
 - 💞️ I’m looking to collaborate on UBUNTU management
 - 📫 How to reach me soylemezom@gmail.com
 
